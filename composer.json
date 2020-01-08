@@ -1,0 +1,20 @@
+{
+    "name": "duanyasong/1688-sdk-php",
+    "description": "1688-sdk-php composer for magento2",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.1",
+        "ext-curl": "*"
+    },
+    "license": "MIT",
+    "authors": [
+     {
+      "name": "Mark Duan",
+      "email": "mark.duan@silksoftware.com"
+     }
+    ],
+    "autoload": {
+      "files": ["autoload.php"]
+    }
+}
